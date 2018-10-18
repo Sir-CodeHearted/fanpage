@@ -13,10 +13,10 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
 #### HTML
-- [ ] Change the header to display the name of the fan page on each html page
-- [ ] Link the a tags in the navbar to the correct .html files on each html page
-- [ ] Link the a tags surrounding social media icons to the correct social media accounts on each html page
-- [ ] Add text to the element with the class of leftPane to describe who/what your fanpage is about in about.html
+- [X] Change the header to display the name of the fan page on each html page
+- [X] Link the a tags in the navbar to the correct .html files on each html page
+- [X] Link the a tags surrounding social media icons to the correct social media accounts on each html page
+- [x] Add text to the element with the class of leftPane to describe who/what your fanpage is about in about.html
 - [ ] Add images to the gallery thumbnails in gallery.html
 #### CSS
 - [ ] Use CSS to change the background-color and/or font color on the page.
