@@ -4,6 +4,8 @@ html {
 
 body {
     height: 100%;
+    background-color:black;
+    color:#3279d4;
     
 }
 a {
@@ -12,8 +14,29 @@ a {
 
 .main {
     height: 100%;
+    background-image: url("https://i.pinimg.com/originals/42/34/21/423421f60744eb7ae57984ce76f8504b.jpg")
 }
 .social-image{
     width: 30px;
     margin: 15px;
 }
+
+.header{
+    display:flex;
+    justify-content:center;
+}
+.navbar{
+    display:flex;
+    justify-content:space-around;
+}
+.footer{
+    display:flex;
+    justify-content:space-between;
+}
+
+
+
+
+
+
+
